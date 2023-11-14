@@ -1,5 +1,5 @@
 # AWS_Code
-** To deploy a Website on AWS EC2 using Apache**
+**To deploy a Website on AWS EC2 using Apache**
 
 sudo su -  
 ls  
